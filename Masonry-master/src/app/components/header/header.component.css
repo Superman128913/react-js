@@ -1,0 +1,14 @@
+.navigation a {
+  margin: 10px;
+  border-radius: 18px;
+  background-color: transparent;
+  color: #ADADAD;
+  box-shadow: none;
+  border: 1px solid #ADADAD ;
+  text-transform: none;
+}
+.navigation a:hover {
+  background-color: #47C9E5;
+  color: white;
+  border: 1px solid #47C9E5;
+}
