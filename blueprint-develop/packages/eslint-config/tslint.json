@@ -1,0 +1,16 @@
+{
+    "defaultSeverity": "error",
+    "rules": {
+        "no-submodule-imports": {
+            "options": [
+                "core-js",
+                "date-fns",
+                "react-dom",
+                "@blueprintjs/table/src",
+                "@blueprintjs/test-commons/bootstrap",
+                "tsutils"
+            ]
+        },
+        "object-literal-sort-keys": true
+    }
+}
